@@ -8,6 +8,8 @@ music etc... who cares anyway
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guka19)](https://github.com/guka19/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guka19)](https://github.com/guka19/github-readme-stats)
+
 <!--
 **guka19/guka19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
