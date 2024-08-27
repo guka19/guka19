@@ -1,9 +1,8 @@
 # 🐉 Guka19
 
-I'm a Computer-Science student from Georgia, I like learning stuff about computers, Currently learning Web-Development... I like coding, beer, coffe, gaming,
+I'm a Computer-Science student from Georgia, I like learning stuff about computers, Currently learning Web-Development And Cyber Security... I like coding, beer, coffe, gaming,
 music etc... who cares anyway
 
-🌱 I’m currently learning NodeJS/Express, React
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guka19)](https://github.com/guka19/github-readme-stats)
 
